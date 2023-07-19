@@ -1,0 +1,22 @@
+{
+  "produits": [
+    {
+      "id": "1",
+      "Nom": "Iphone 8",
+      "Prix": "455",
+      "Qt": "62"
+    },
+    {
+      "Nom": "Iphone 14 Pro Max",
+      "Prix": "1200",
+      "Qt": "50",
+      "id": "kxRyorZ"
+    },
+    {
+      "Nom": "Samsung Galaxy s20",
+      "Prix": "750",
+      "Qt": "120",
+      "id": "echwh0c"
+    }
+  ]
+}
